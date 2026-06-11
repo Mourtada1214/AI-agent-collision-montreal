@@ -1,0 +1,1 @@
+print("Projet Agent IA - Collisions Montréal démarré")
